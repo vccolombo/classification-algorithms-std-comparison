@@ -26,7 +26,7 @@ The standardization was performed using sklearn's [StandardScaler](https://sciki
 
 ## Results
 
-The difference was calculated based on the not standardized results.
+The difference was calculated based on the non-standardized results.
 
 ### Logistic Regression
 
